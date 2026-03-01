@@ -1,6 +1,7 @@
-### Farm Ploughing Code Challenge
+## Farm Ploughing Code Challenge
 
 **Overview**
+
 This project implements a serpentine (zig-zag) traversal algorithm over a 2D list in Python. The traversal simulates a tractor ploughing a field by moving across each row and alternating direction on every pass.
 
 ***The movement pattern works as follows:***
